@@ -1,2 +1,1 @@
-github "ashleymills/Reachability.swift" ~> 4.0
-github "AliSoftware/OHHTTPStubs"
+git "https://github.com/3pillarlabs/iOS-AssetsCaching.git" "master"

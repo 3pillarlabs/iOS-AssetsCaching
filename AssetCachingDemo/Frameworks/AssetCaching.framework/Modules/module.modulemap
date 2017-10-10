@@ -1,0 +1,11 @@
+framework module AssetCaching {
+  umbrella header "AssetCaching.h"
+
+  export *
+  module * { export * }
+}
+
+module AssetCaching.Swift {
+    header "AssetCaching-Swift.h"
+    requires objc
+}
