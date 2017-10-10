@@ -1,0 +1,2 @@
+github "ashleymills/Reachability.swift" ~> 4.0
+github "AliSoftware/OHHTTPStubs"
